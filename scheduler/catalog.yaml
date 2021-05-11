@@ -1,0 +1,79 @@
+cat_name: test catalog
+cat_date: 3apr21
+home_dec: 68:00:00
+sources:
+  - name: 3C48
+    RA: 01 37 41.30
+    DEC: +33 09 35.1
+    blocklen: 30
+    priority: 1
+    type: C
+    dm: 
+    snr: 
+  - name: 3C147
+    RA: 05 42 36.14
+    DEC: +49 51 07.2
+    blocklen: 30
+    priority: 1
+    type: C
+    dm:
+    snr: 
+  - name: 3C196
+    RA: 08 13 36.06
+    DEC: +48 13 02.6
+    blocklen: 30
+    priority: 1
+    type: C
+    dm:
+    snr: 
+  - name: 3C286
+    RA: 13 31 08.29
+    DEC: +30 30 33.0
+    blocklen: 30
+    priority: 1
+    type: C
+    dm:
+    snr: 
+  - name: B0329+54
+    RA: 03 32 59.40
+    DEC: +54 34 43.3
+    blocklen: 30
+    priority: 1
+    type: P
+    dm: 26.76
+    snr: 9.0
+  - name: B0950+08
+    RA: 09 53 09.31
+    DEC: +07 55 35.7
+    blocklen: 30
+    priority: 1
+    type: P
+    dm: 2.97
+    snr: 9.0
+  - name: B1933+16
+    RA: 19 35 47.83
+    DEC: +16 16 34.0
+    blocklen: 30
+    priority: 1
+    type: P
+    dm: 158.52
+    snr: 6.5
+  - name: B2020+28
+    RA: 20 22 37.07
+    DEC: +28 54 23.1
+    blocklen: 30
+    priority: 4
+    type: P
+    dm: 24.63
+    snr: 8.0
+  - name: B2016+28
+    RA: 20 18 03.83
+    DEC: +28 39 54.2
+    blocklen: 30
+    priority: 1
+    type: P
+    dm: 14.2
+    snr: 8.0
+    
+    
+  
